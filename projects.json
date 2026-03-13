@@ -1,0 +1,12 @@
+[
+    {
+    "title": "RAG HR Chatbot",
+    "description": "A RAG chatbot that answers questions from a company's HR policy document using LangChain and Python.",
+    "github_url": "<https://github.com/SN-Abhishek/langchain-rag-chatbot-hr-faq>"
+    },
+    {
+        "title": "LangChain Research Agent",
+        "description": "A conversational research agent build with LangChain and Google's Gemini.",
+        "github_url": "<https://github.com/SN-Abhishek/langchain-research-agent>"
+        }
+    ]
